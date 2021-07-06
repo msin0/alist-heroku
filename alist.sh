@@ -8,7 +8,7 @@ info:
   logo:
   footer_text: Aliyunlist
   footer_url: https://aliyunlist.herokuapp.com/
-  music_img: https://img.oez.cc/2020/12/19/0f8b57866bdb5.gif
+  music_img:  https://www.btcha.com/uploadfile/yxdownimg/07/klhcgzjhxes.jpg
   check_update: false
   script: ""
   autoplay: true
