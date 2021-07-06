@@ -6,8 +6,8 @@ cat >/alist/config/conf.yml <<EOF
 info:
   title: $CTITLE
   logo:
-  footer_text: Cooluc's Blog
-  footer_url: https://www.cooluc.com/
+  footer_text: Aliyunlist
+  footer_url: https://aliyunlist.herokuapp.com/
   music_img: https://img.oez.cc/2020/12/19/0f8b57866bdb5.gif
   check_update: false
   script: ""
