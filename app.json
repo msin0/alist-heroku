@@ -1,6 +1,6 @@
 {
   "name": "Alist",
-  "description": "Alist on Heroku",
+  "description": "Aliyun on Heroku",
   "keywords": ["Alist"],
   "env": {
     "ATOKEN": {
@@ -13,7 +13,7 @@
     },
     "CTITLE": {
        "description": "网站标题",
-       "value": "Alist on heroku"
+       "value": "Aliyun on heroku"
     },
     "DPASSWORD": {
        "description": "重构目录密码",
