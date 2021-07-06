@@ -1,5 +1,5 @@
-FROM sbwml/alist
-MAINTAINER cooluc <admin@cooluc.com>
+FROM msin0/alist-heroku
+MAINTAINER msin0 <admin@msin0 .com>
 
 RUN chmod -R 777 /alist/config
 ADD alist.sh /alist.sh
